@@ -27,7 +27,7 @@ Set up Arduino IDE as shown in Mini Project #2, if you have not done so already.
 [Arduino IDE tutorial:](https://docs.google.com/document/d/1N70qcqzzO3L6botFmQ0oDeWFepuP18lddAu0HNBlQt4/edit?tab=t.0#heading=h.pwaynmqdgkc0)
 
 Topics that are used in this tutorial:  
--Nyquist sampling theoram from ECE101  
+-Nyquist sampling theorem from ECE101  
 -Analog to Digital signal conversion from ECE101  
 -Digital Signal processing from ECE101  
 
